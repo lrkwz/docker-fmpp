@@ -1,0 +1,5 @@
+version: '3'
+services:
+    fmpp:
+        build: .
+        image: lrkwz/fmpp:0.9.15-1
